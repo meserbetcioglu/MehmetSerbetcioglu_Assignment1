@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elgor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elgor\\.nuget\\packages"
+    ]
+  }
+}

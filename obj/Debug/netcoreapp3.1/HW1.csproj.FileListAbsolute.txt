@@ -1,0 +1,11 @@
+C:\Users\elgor\Desktop\oop\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.exe
+C:\Users\elgor\Desktop\oop\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.deps.json
+C:\Users\elgor\Desktop\oop\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.runtimeconfig.json
+C:\Users\elgor\Desktop\oop\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.runtimeconfig.dev.json
+C:\Users\elgor\Desktop\oop\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.dll
+C:\Users\elgor\Desktop\oop\HW1\HW1\bin\Debug\netcoreapp3.1\HW1.pdb
+C:\Users\elgor\Desktop\oop\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.AssemblyInfoInputs.cache
+C:\Users\elgor\Desktop\oop\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.AssemblyInfo.cs
+C:\Users\elgor\Desktop\oop\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.dll
+C:\Users\elgor\Desktop\oop\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.pdb
+C:\Users\elgor\Desktop\oop\HW1\HW1\obj\Debug\netcoreapp3.1\HW1.csprojAssemblyReference.cache
